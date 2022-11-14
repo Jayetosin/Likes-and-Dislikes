@@ -1,0 +1,22 @@
+*{
+    background-color: burlywood;
+}
+h1{
+    color: cyan;
+}
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.likes{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+#ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dislikes{
+    font-family: inherit;
+}
+#ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
